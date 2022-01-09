@@ -1,0 +1,21 @@
+// library
+// https://downloads.arduino.cc/libraries/github.com/arduino-libraries/LiquidCrystal-1.0.7.zip
+
+lcd pin			arduino pin		name
+1				gnd				vss -> ground
+2				5v				vdd -> +5v
+3				---				vo -> potentionmeter
+4				12				rs
+5				---				read/write
+6				11				enable
+7				---				---
+8				---				---
+9				---				---
+10				---				---
+11				5				nss
+12				4				mosi
+13				3				miso
+14				2				sclk
+15				3.3v			led+ -> +3.3v
+16				gnd				led- -> ground
+
